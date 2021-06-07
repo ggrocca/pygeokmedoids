@@ -10,7 +10,7 @@ The main application, `geokmedoids.py`, provides a command line interface to all
 
 Keep in mind that several parameters and distance combinations might result in very long computation times, depending on input size. k-medoids is an algorithm with [quadratic computational complexity][6].
 
-It would interesting to do the same experiment with [hierarchical / agglomerative clustering][7] too.
+It would be interesting to do the same experiment with [hierarchical / agglomerative clustering][7] too.
 
 [1]: https://scikit-learn-extra.readthedocs.io/en/stable/
 [2]: https://scikit-learn-extra.readthedocs.io/en/latest/generated/sklearn_extra.cluster.KMedoids.html
